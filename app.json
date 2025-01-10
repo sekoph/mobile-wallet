@@ -1,4 +1,12 @@
 {
   "name": "newHB",
-  "displayName": "newHB"
+  "displayName": "newHB",
+  "android": {
+    "package": "com.sekoph.hb",
+  },
+  "splash": {
+      "image": "./assets/images/splashScreen.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
 }
